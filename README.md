@@ -30,8 +30,8 @@ I am a Computer Engineering student at **COMSATS University Islamabad** (2023–
 | :--- | :--- | :--- | :--- |
 | **FPGA / RTL** | **Real-Time Image Noise Reduction** | Pipelined Averaging, Median & Gaussian filters on Xilinx Spartan-3E (50 MHz, 1 px/clk, UART + VGA + MATLAB PSNR) | [fpga-realtime-image-noise-reduction](https://github.com/imcalledhadi/fpga-realtime-image-noise-reduction) |
 | **VLSI Design** | **4-Bit Wallace Tree Multiplier** | Custom CMOS layout in Tanner L-Edit, DRC/LVS verified, Logical Effort critical-path sizing | [wallace-tree-4bit-multiplier-vlsi](https://github.com/imcalledhadi/wallace-tree-4bit-multiplier-vlsi) |
-| **Mobile / Cloud** | **Linker — Real-Time Chat App** | Cross-platform Flutter & Dart messaging app with Firebase Auth & Cloud Firestore | [linker-flutter-chat-app](https://github.com/imcalledhadi/linker-flutter-chat-app) |
-| **Android / Kotlin** | **ComsCAD — Student Study Portal** | Native Kotlin & Jetpack Compose app backed by Cloud Firestore & Cloudinary | [comscad-study-portal-android](https://github.com/imcalledhadi/comscad-study-portal-android) |
+| **Mobile / Cloud** | **Linker - Real-Time Chat App** | Cross-platform Flutter & Dart messaging app with Firebase Auth & Cloud Firestore | [linker-flutter-chat-app](https://github.com/imcalledhadi/linker-flutter-chat-app) |
+| **Android / Kotlin** | **ComsCAD - Student Study Portal** | Native Kotlin & Jetpack Compose app backed by Cloud Firestore & Cloudinary | [comscad-study-portal-android](https://github.com/imcalledhadi/comscad-study-portal-android) |
 | **Browser Ext.** | **AI Chat Exporter** | Chrome/Edge MV3 extension exporting Claude, ChatGPT, Gemini, Grok & DeepSeek to PDF/Word/MD | [ai-chat-exporter-extension](https://github.com/imcalledhadi/ai-chat-exporter-extension) |
 | **Full-Stack / Sec** | **AZFHU Impex E-Commerce** | Production PHP & MySQL e-commerce platform & admin panel hardened against SQLi/XSS *(Client Work)* | [azfhuimpex-ecommerce-showcase](https://github.com/imcalledhadi/azfhuimpex-ecommerce-showcase) · [Live](https://azfhuimpex.com/) |
 | **Full-Stack / PHP** | **Horizon College Portal** | Multi-role PHP (PDO) & MySQL academic portal (Admin, Faculty, Student, Parent, Admissions) | [horizon-college-portal-php](https://github.com/imcalledhadi/horizon-college-portal-php) |
@@ -58,7 +58,7 @@ I am a Computer Engineering student at **COMSATS University Islamabad** (2023–
 - 🥇 **NESCOM FYP Research Grant & Award** (SONAR-Based Low Noise Programmable Gain Amplifier)
 - 🏅 **COMSATS Engineering Dean's Honor Roll**
 - 🛡️ **Google Cybersecurity Professional Certificate** | **Cisco Ethical Hacker** | **Cisco Cyber Threat Management**
-- 🤖 **IBM Machine Learning with Python** | **IBM Generative AI Essentials** | **DeepLearning.AI — AI For Everyone**
+- 🤖 **IBM Machine Learning with Python** | **IBM Generative AI Essentials** | **DeepLearning.AI - AI For Everyone**
 - ☁️ **DigiSkills Cloud Computing** & **Mobile Game and App Development**
 
 ---
