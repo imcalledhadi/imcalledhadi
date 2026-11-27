@@ -7,6 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abdulhadi--portfolio.web.app-00f0ff?style=for-the-badge&logo=firebase&logoColor=white)](https://abdulhadi-portfolio.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-imcalledhadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imcalledhadi/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-imcalledhadi-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/imcalledhadi)
 [![Email](https://img.shields.io/badge/Email-m.abdul.hadi.9616%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abdul.hadi.9616@gmail.com)
 
 </div>
@@ -19,7 +20,7 @@ I am a Computer Engineering student at **COMSATS University Islamabad** (2023-20
 
 - 🛰️ **Final Year Project (NESCOM-Funded):** Designing a **SONAR-Based Low Noise Programmable Gain Amplifier** for underwater signal acquisition.
 - 🔬 **Former Research Intern @ ASIC Research:** Worked on **AI/ML & Embedded Systems**, hardware-accelerated models, and custom digital architectures.
-- 🛡️ **Security-First Mindset:** Certified in **Cisco Ethical Hacking**, **Google Cybersecurity**, and **Cyber Threat Management**.
+- 🛡️ **Security-First Mindset:** Certified in **Cisco Ethical Hacking**, **Google Cybersecurity**, and **Cyber Threat Management**. Active on **[TryHackMe](https://tryhackme.com/p/imcalledhadi)** & **PortSwigger Web Security Academy**.
 - 🎯 **Open to:** Internships, Research Collaborations, and Entry-Level Roles in **Embedded Systems, FPGA/VLSI, Software Engineering, and Cybersecurity**.
 
 ---
@@ -34,6 +35,7 @@ I am a Computer Engineering student at **COMSATS University Islamabad** (2023-20
 | **Android / Kotlin** | **ComsCAD - Student Study Portal** | Native Kotlin & Jetpack Compose app backed by Cloud Firestore & Cloudinary | [comscad-study-portal-android](https://github.com/imcalledhadi/comscad-study-portal-android) |
 | **Browser Ext.** | **AI Chat Exporter** | Chrome/Edge MV3 extension exporting Claude, ChatGPT, Gemini, Grok & DeepSeek to PDF/Word/MD | [ai-chat-exporter-extension](https://github.com/imcalledhadi/ai-chat-exporter-extension) |
 | **Full-Stack / Sec** | **AZFHU Impex E-Commerce** | Production PHP & MySQL e-commerce platform & admin panel hardened against SQLi/XSS *(Client Work)* | [azfhuimpex-ecommerce-showcase](https://github.com/imcalledhadi/azfhuimpex-ecommerce-showcase) · [Live](https://azfhuimpex.com/) |
+| **Cybersecurity** | **Security Labs & Writeups** | TryHackMe ([imcalledhadi](https://tryhackme.com/p/imcalledhadi)) & PortSwigger Web Security Academy practice | [cybersecurity-labs-and-writeups](https://github.com/imcalledhadi/cybersecurity-labs-and-writeups) |
 | **Full-Stack / PHP** | **Horizon College Portal** | Multi-role PHP (PDO) & MySQL academic portal (Admin, Faculty, Student, Parent, Admissions) | [horizon-college-portal-php](https://github.com/imcalledhadi/horizon-college-portal-php) |
 | **Systems / C** | **BatteryFullAlarm (Win32 C)** | Lightweight native Windows C (Win32 API) battery alarm utility with NSIS installer | [battery-full-alarm-win32-c](https://github.com/imcalledhadi/battery-full-alarm-win32-c) |
 | **DSP / MATLAB** | **FIR Low-Pass Filter Design** | Hamming vs. Hanning window analysis on speech signals (`voice.wav`), FFT & filter order study | [fir-lowpass-filter-dsp-matlab](https://github.com/imcalledhadi/fir-lowpass-filter-dsp-matlab) |
