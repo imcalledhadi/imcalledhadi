@@ -33,14 +33,14 @@ I am a Computer Engineering student at **COMSATS University Islamabad** (2023–
 | **Mobile / Cloud** | **Linker — Real-Time Chat App** | Cross-platform Flutter & Dart messaging app with Firebase Auth & Cloud Firestore | [linker-flutter-chat-app](https://github.com/imcalledhadi/linker-flutter-chat-app) |
 | **Android / Kotlin** | **ComsCAD — Student Study Portal** | Native Kotlin & Jetpack Compose app backed by Cloud Firestore & Cloudinary | [comscad-study-portal-android](https://github.com/imcalledhadi/comscad-study-portal-android) |
 | **Browser Ext.** | **AI Chat Exporter** | Chrome/Edge MV3 extension exporting Claude, ChatGPT, Gemini, Grok & DeepSeek to PDF/Word/MD | [ai-chat-exporter-extension](https://github.com/imcalledhadi/ai-chat-exporter-extension) |
-| **Full-Stack / Sec** | **AZFHU Impex E-Commerce** | Production PHP & MySQL e-commerce platform & admin panel hardened against SQLi/XSS *(Client Work)* | [Live Showcase](https://abdulhadi-portfolio.web.app/projects) |
+| **Full-Stack / Sec** | **AZFHU Impex E-Commerce** | Production PHP & MySQL e-commerce platform & admin panel hardened against SQLi/XSS *(Client Work)* | [azfhuimpex-ecommerce-showcase](https://github.com/imcalledhadi/azfhuimpex-ecommerce-showcase) |
 | **Full-Stack / PHP** | **Horizon College Portal** | Multi-role PHP (PDO) & MySQL academic portal (Admin, Faculty, Student, Parent, Admissions) | [horizon-college-portal-php](https://github.com/imcalledhadi/horizon-college-portal-php) |
 | **Systems / C** | **BatteryFullAlarm (Win32 C)** | Lightweight native Windows C (Win32 API) battery alarm utility with NSIS installer | [battery-full-alarm-win32-c](https://github.com/imcalledhadi/battery-full-alarm-win32-c) |
 | **DSP / MATLAB** | **FIR Low-Pass Filter Design** | Hamming vs. Hanning window analysis on speech signals (`voice.wav`), FFT & filter order study | [fir-lowpass-filter-dsp-matlab](https://github.com/imcalledhadi/fir-lowpass-filter-dsp-matlab) |
 | **Database / SQL** | **Smart Tour Guide Database** | 10-table normalized MySQL relational schema covering 13 northern destinations with ER modeling | [smart-tour-guide-sql-database](https://github.com/imcalledhadi/smart-tour-guide-sql-database) |
 | **Embedded / IoT** | **Arduino Fire Detector & Extinguisher** | Autonomous flame-sensing & fan suppression system with buzzer/LED alerts | [arduino-fire-detector-extinguisher](https://github.com/imcalledhadi/arduino-fire-detector-extinguisher) |
 | **Robotics / PCB** | **Line Following Robot (LFR)** | Arduino Nano, L298 driver, 5-channel IR array & custom etched Proteus PCB | [line-following-robot-lfr](https://github.com/imcalledhadi/line-following-robot-lfr) |
-| **Web / PWA** | **Personal Portfolio Platform** | Responsive PWA portfolio with Firebase integration & dynamic project/admin system | [abdulhadi-portfolio.web.app](https://abdulhadi-portfolio.web.app/) |
+| **Web / PWA** | **Personal Portfolio Platform** | Responsive PWA portfolio with Firebase & Cloudinary integration | [abdulhadi-portfolio-showcase](https://github.com/imcalledhadi/abdulhadi-portfolio-showcase) · [Live](https://abdulhadi-portfolio.web.app/) |
 
 ---
 
