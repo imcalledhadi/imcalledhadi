@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Engineering student at **COMSATS University Islamabad** (2023–2027) passionate about bridging **digital hardware** and **secure software**, from RTL design on FPGAs and CMOS VLSI layouts to custom PCBs, embedded firmware, and full-stack/mobile applications.
+I am a Computer Engineering student at **COMSATS University Islamabad** (2023-2027) passionate about bridging **digital hardware** and **secure software**, from RTL design on FPGAs and CMOS VLSI layouts to custom PCBs, embedded firmware, and full-stack/mobile applications.
 
 - 🛰️ **Final Year Project (NESCOM-Funded):** Designing a **SONAR-Based Low Noise Programmable Gain Amplifier** for underwater signal acquisition.
 - 🔬 **Former Research Intern @ ASIC Research:** Worked on **AI/ML & Embedded Systems**, hardware-accelerated models, and custom digital architectures.
